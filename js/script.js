@@ -45,5 +45,3 @@ window.onload = function () {
   headerObserver.observe(headerElement);
 
 }
-
-console.log("test console log");
